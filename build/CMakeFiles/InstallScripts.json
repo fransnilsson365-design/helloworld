@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Dev/cpp/helloworld/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
